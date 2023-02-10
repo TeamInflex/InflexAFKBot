@@ -41,6 +41,6 @@ Inflex@MacBook~ $ python3 -m Inflex
 
 ## 🗂 License
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
+This project is licensed under the **GNU General Public License v3**. All designs were created by [@TeamInflex](https://github.com/TeamInflex) .
 
 See [LICENSE](LICENSE) for more information.
